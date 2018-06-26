@@ -1,2 +1,0 @@
-# studygroup
-post-bootcamp study
